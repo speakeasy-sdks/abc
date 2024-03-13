@@ -3,17 +3,17 @@ id: c6dbe659-ba7c-446a-b955-a90cd73d4183
 management:
   docChecksum: 1bdb7a6f8bf3995d4b40475228403253
   docVersion: 1.0.0
-  speakeasyVersion: internal
-  generationVersion: 2.258.2
-  releaseVersion: 0.5.3
-  configChecksum: 3de86c09cb5e317f090581111ac46e17
+  speakeasyVersion: 1.207.1
+  generationVersion: 2.280.6
+  releaseVersion: 0.5.4
+  configChecksum: cefce9e50a3608ad3fc8a3357bc02ed8
   repoURL: https://github.com/speakeasy-sdks/abc.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/abc
 features:
   typescript:
-    core: 3.4.7
-    globalServerURLs: 2.82.1
+    core: 3.4.8
+    globalServerURLs: 2.82.2
 generatedFiles:
   - src/sdk/pets.ts
   - src/sdk/sdk.ts
